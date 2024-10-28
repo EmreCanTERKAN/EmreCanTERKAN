@@ -9,7 +9,7 @@ I decided to continue my career as a full-stack developer after my five years of
 *   🌍  I'm based in Ankara/TURKEY
 *   ✉️  You can contact me at [emrecanterkan06@gmail.com](mailto:emrecanterkan06@gmail.com)
 *   🚀  I'm currently working on [Amel Tech](http://amel-tech.org/) with my community
-*   🧠  I'm learning C# .NET CORE, MVC,WEB APİ ,ORM,OOP,EF CORE,MS SQL POSTGRE SQL,LINQ,
+*   🧠  I'm learning C# .NET CORE, MVC,WEB API ,ORM,OOP,EF CORE,MS SQL POSTGRE SQL,LINQ,
 
 ### Skills 
 <p align="left">
