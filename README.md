@@ -1,7 +1,7 @@
 Hi 👋 My name is Emre Can TERKAN
 ================================
 
-Full-Stack Developer
+Jr.Back-End Developer
 --------------------
 
 I decided to continue my career as a full-stack developer after my five years of service as a Gendarmerie personnel, embarking on an endless learning journey in September 2024. I studied computer web programming in high school and university
