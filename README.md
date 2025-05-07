@@ -1,15 +1,11 @@
 Hi 👋 My name is Emre Can TERKAN
 ================================
 
-Jr.Back-End Developer
+Full-stack Developer
 --------------------
-
-I decided to continue my career as a full-stack developer after my five years of service as a Gendarmerie personnel, embarking on an endless learning journey in September 2024. I studied computer web programming in high school and university
 
 *   🌍  I'm based in Ankara/TURKEY
 *   ✉️  You can contact me at [emrecanterkan06@gmail.com](mailto:emrecanterkan06@gmail.com)
-*   🚀  I'm currently working on [Amel Tech](http://amel-tech.org/) with my community
-*   🧠  I'm learning C# .NET CORE, ,WEB API ,ORM,OOP,EF CORE,MS SQL POSTGRE SQL,LINQ,
 
 ### Skills 
 <p align="left">
